@@ -7,7 +7,7 @@
 
 # Link to the blog post
 
-[Here is a blog post on the study on medium](https://medium.com/@anoosheh.niavarani.egr/what-an-amazon-fine-food-review-tell-us-a-food-for-thought-869dfe70f2ee)
+[Here is a blog post on the study on medium]
 
 # Dependecies and packages:
 
