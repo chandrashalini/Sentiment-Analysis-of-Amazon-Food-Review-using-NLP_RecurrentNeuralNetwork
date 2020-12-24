@@ -1,5 +1,6 @@
 # Sentiment analysis of Amazon 500,000 fine food reviews
 
+<img src = https://github.com/chandrashalini/IMDB-Data-Analysis-and-Business-Intelligence/blob/main/dashboard.JPG>
 - In this project I look at the review helpfulness and interaction between top reviewers in the comnnunity.
 - Study the impact of time on the review score
 - Perform NLP analysis on the review sentiments
